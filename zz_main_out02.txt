@@ -1,0 +1,302 @@
+100.00 :x || y: 115.00
+	0 :col || row: 0
+Distance Read: 4190 ---> 72 cm
+Distance Read: 4187 ---> 72 cm
+Distance Read: 6460 ---> 111 cm
+Distance Read: 6481 ---> 111 cm
+? ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+? ? ? ? ? 
+* ? ? ? ? 
+0.00 0.00 0.00 0.00 0.00 
+0.00 0.00 0.00 0.00 0.00 
+0.00 0.00 0.00 0.00 0.00 
+0.00 0.00 0.00 0.00 0.00 
+0.00 0.00 0.00 0.00 0.00 
+subtargetReassign
+04Subtarget: 04
+	 Modified Subtarget: 04
+0
+Distance Read: 4136 ---> 71 cm
+100.00 :x || y: 140.96
+	0 :col || row: 0
+Distance Read: 4000 ---> 68 cm
+100.00 :x || y: 159.51
+	0 :col || row: 0
+Distance Read: 3883 ---> 66 cm
+100.00 :x || y: 178.05
+	0 :col || row: 0
+Distance Read: 3784 ---> 65 cm
+100.00 :x || y: 196.59
+	0 :col || row: 0
+Distance Read: 3664 ---> 63 cm
+100.00 :x || y: 215.14
+	0 :col || row: 0
+Distance Read: 3547 ---> 61 cm
+100.00 :x || y: 237.39
+	0 :col || row: 0
+Distance Read: 3433 ---> 59 cm
+100.00 :x || y: 255.94
+	0 :col || row: 0
+Distance Read: 3330 ---> 57 cm
+100.00 :x || y: 274.48
+	0 :col || row: 0
+Distance Read: 3210 ---> 55 cm
+100.00 :x || y: 294.88
+	0 :col || row: 0
+Distance Read: 3093 ---> 53 cm
+100.00 :x || y: 313.42
+	0 :col || row: 1
+Distance Read: 2967 ---> 51 cm
+100.00 :x || y: 331.97
+	0 :col || row: 1
+Distance Read: 2859 ---> 49 cm
+100.00 :x || y: 350.51
+	0 :col || row: 1
+Distance Read: 2742 ---> 47 cm
+100.00 :x || y: 372.76
+	0 :col || row: 1
+Distance Read: 2628 ---> 45 cm
+100.00 :x || y: 391.31
+	0 :col || row: 1
+Distance Read: 2511 ---> 43 cm
+100.00 :x || y: 409.85
+	0 :col || row: 1
+Distance Read: 2391 ---> 41 cm
+100.00 :x || y: 428.40
+	0 :col || row: 1
+Distance Read: 2285 ---> 39 cm
+100.00 :x || y: 450.65
+	0 :col || row: 1
+Distance Read: 2165 ---> 37 cm
+100.00 :x || y: 469.19
+	0 :col || row: 1
+Distance Read: 2051 ---> 35 cm
+100.00 :x || y: 487.74
+	0 :col || row: 1
+Distance Read: 1934 ---> 33 cm
+100.00 :x || y: 508.14
+	0 :col || row: 1
+Distance Read: 1820 ---> 31 cm
+100.00 :x || y: 528.53
+	0 :col || row: 1
+Distance Read: 1713 ---> 29 cm
+100.00 :x || y: 547.08
+	0 :col || row: 1
+Distance Read: 1589 ---> 27 cm
+100.00 :x || y: 565.62
+	0 :col || row: 1
+Distance Read: 1478 ---> 25 cm
+100.00 :x || y: 584.17
+	0 :col || row: 1
+Distance Read: 1367 ---> 23 cm
+100.00 :x || y: 602.71
+	0 :col || row: 2
+======================
+	 Subtarget Reached!
+======================
+100.00 :x || y: 610.13
+	0 :col || row: 2
+Distance Read: 1224 ---> 21 cm
+Distance Read: 1224 ---> 21 cm
+Distance Read: 6202 ---> 106 cm
+Distance Read: 6205 ---> 106 cm
+? ? ? ? ? 
+? ? ? ? ? 
+* ? ? ? ? 
+* ? ? ? ? 
+* ? ? ? ? 
+0.00 0.00 0.00 0.00 0.00 
+0.88 0.00 0.00 0.00 0.00 
+0.88 0.00 0.00 0.00 0.00 
+0.00 0.00 0.00 0.00 0.00 
+0.00 0.00 0.00 0.00 0.00 
+subtargetReassign
+42subtargetReassign
+42Subtarget: 42
+	 Modified Subtarget: 42
+4
+======================
+	 Turning Right!
+======================
+Distance Read: 6043 ---> 104 cm
+122.25 :x || y: 610.13
+	0 :col || row: 2
+Distance Read: 5903 ---> 101 cm
+142.65 :x || y: 610.13
+	0 :col || row: 2
+Distance Read: 5790 ---> 99 cm
+163.05 :x || y: 610.13
+	0 :col || row: 2
+Distance Read: 5663 ---> 97 cm
+181.59 :x || y: 610.13
+	0 :col || row: 2
+Distance Read: 5552 ---> 95 cm
+200.14 :x || y: 610.13
+	0 :col || row: 2
+Distance Read: 5463 ---> 94 cm
+218.68 :x || y: 610.13
+	0 :col || row: 2
+Distance Read: 5357 ---> 92 cm
+237.23 :x || y: 610.13
+	0 :col || row: 2
+Distance Read: 5245 ---> 90 cm
+255.77 :x || y: 610.13
+	0 :col || row: 2
+Distance Read: 5131 ---> 88 cm
+278.02 :x || y: 610.13
+	0 :col || row: 2
+Distance Read: 5011 ---> 86 cm
+296.57 :x || y: 610.13
+	0 :col || row: 2
+Distance Read: 4903 ---> 84 cm
+315.11 :x || y: 610.13
+	1 :col || row: 2
+Distance Read: 4787 ---> 82 cm
+335.51 :x || y: 610.13
+	1 :col || row: 2
+Distance Read: 4676 ---> 80 cm
+355.91 :x || y: 610.13
+	1 :col || row: 2
+Distance Read: 4556 ---> 78 cm
+374.45 :x || y: 610.13
+	1 :col || row: 2
+Distance Read: 4439 ---> 76 cm
+394.85 :x || y: 610.13
+	1 :col || row: 2
+Distance Read: 4327 ---> 74 cm
+415.25 :x || y: 610.13
+	1 :col || row: 2
+Distance Read: 4204 ---> 72 cm
+433.79 :x || y: 610.13
+	1 :col || row: 2
+Distance Read: 4090 ---> 70 cm
+452.34 :x || y: 610.13
+	1 :col || row: 2
+Distance Read: 3973 ---> 68 cm
+474.59 :x || y: 610.13
+	1 :col || row: 2
+Distance Read: 3850 ---> 66 cm
+493.14 :x || y: 610.13
+	1 :col || row: 2
+Distance Read: 3730 ---> 64 cm
+511.68 :x || y: 610.13
+	1 :col || row: 2
+Distance Read: 3643 ---> 62 cm
+532.08 :x || y: 610.13
+	1 :col || row: 2
+Distance Read: 3544 ---> 61 cm
+552.48 :x || y: 610.13
+	1 :col || row: 2
+Distance Read: 10068 ---> 173 cm
+574.73 :x || y: 610.13
+	1 :col || row: 2
+Distance Read: 16643 ---> 286 cm
+596.98 :x || y: 610.13
+	1 :col || row: 2
+Distance Read: 4469 ---> 77 cm
+615.53 :x || y: 610.13
+	2 :col || row: 2
+Distance Read: 4300 ---> 74 cm
+637.78 :x || y: 610.13
+	2 :col || row: 2
+Distance Read: 4042 ---> 69 cm
+656.32 :x || y: 610.13
+	2 :col || row: 2
+Distance Read: 3964 ---> 68 cm
+678.58 :x || y: 610.13
+	2 :col || row: 2
+Distance Read: 4075 ---> 70 cm
+697.12 :x || y: 610.13
+	2 :col || row: 2
+Distance Read: 30350 ---> 523 cm
+723.08 :x || y: 610.13
+	2 :col || row: 2
+Distance Read: 29913 ---> 515 cm
+749.04 :x || y: 610.13
+	2 :col || row: 2
+Distance Read: 14732 ---> 254 cm
+771.30 :x || y: 610.13
+	2 :col || row: 2
+Distance Read: 14124 ---> 243 cm
+793.55 :x || y: 610.13
+	2 :col || row: 2
+Distance Read: 13601 ---> 234 cm
+815.80 :x || y: 610.13
+	2 :col || row: 2
+Distance Read: 13229 ---> 228 cm
+838.06 :x || y: 610.13
+	2 :col || row: 2
+Distance Read: 12969 ---> 223 cm
+860.31 :x || y: 610.13
+	2 :col || row: 2
+Distance Read: 11650 ---> 200 cm
+882.56 :x || y: 610.13
+	2 :col || row: 2
+Distance Read: 30906 ---> 532 cm
+904.81 :x || y: 610.13
+	3 :col || row: 2
+Distance Read: 29709 ---> 512 cm
+930.78 :x || y: 610.13
+	3 :col || row: 2
+Distance Read: 5732 ---> 98 cm
+953.03 :x || y: 610.13
+	3 :col || row: 2
+Distance Read: 4951 ---> 85 cm
+971.57 :x || y: 610.13
+	3 :col || row: 2
+Distance Read: 8308 ---> 143 cm
+993.83 :x || y: 610.13
+	3 :col || row: 2
+Distance Read: 7840 ---> 135 cm
+1016.08 :x || y: 610.13
+	3 :col || row: 2
+Distance Read: 7053 ---> 121 cm
+1034.62 :x || y: 610.13
+	3 :col || row: 2
+Distance Read: 5636 ---> 97 cm
+1056.88 :x || y: 610.13
+	3 :col || row: 2
+Distance Read: 6682 ---> 115 cm
+1079.13 :x || y: 610.13
+	3 :col || row: 2
+Distance Read: 16968 ---> 292 cm
+1101.38 :x || y: 610.13
+	3 :col || row: 2
+Distance Read: 15280 ---> 263 cm
+1123.64 :x || y: 610.13
+	3 :col || row: 2
+Distance Read: 15207 ---> 262 cm
+1145.89 :x || y: 610.13
+	3 :col || row: 2
+Distance Read: 15070 ---> 259 cm
+1168.14 :x || y: 610.13
+	3 :col || row: 2
+Distance Read: 14902 ---> 256 cm
+1190.39 :x || y: 610.13
+	3 :col || row: 2
+Distance Read: 14827 ---> 255 cm
+1216.36 :x || y: 610.13
+	4 :col || row: 2
+Distance Read: 14737 ---> 254 cm
+1238.61 :x || y: 610.13
+	4 :col || row: 2
+Distance Read: 14803 ---> 255 cm
+1260.86 :x || y: 610.13
+	4 :col || row: 2
+Distance Read: 14821 ---> 255 cm
+1283.11 :x || y: 610.13
+	4 :col || row: 2
+Distance Read: 14848 ---> 256 cm
+1305.37 :x || y: 610.13
+	4 :col || row: 2
+Distance Read: 14848 ---> 256 cm
+1327.62 :x || y: 610.13
+	4 :col || row: 2
+======================
+	 Subtarget Reached!
+======================
+1335.04 :x || y: 610.13
+	4 :col || row: 2
+
